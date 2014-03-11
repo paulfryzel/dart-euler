@@ -1,0 +1,8 @@
+name: dart_euler
+version: 0.0.1
+author: Paul Fryzel
+description: Project Euler solutions in Dart.
+homepage: https://github.com/paulfryzel/dart-euler
+dependencies:
+  fibonacci_iterable: any
+  unittest: any
